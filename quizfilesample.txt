@@ -1,13 +1,45 @@
 A systematic and unbiased way of solving a problem (by answering questions or supporting hypotheses) through generating verifiable data. | Research
 This is the fundamental definition we need, so we need to understand systematic, unbiased, hypotheses and verifiable. | Research
-Able to tested or tried. | Testable
-Experimental scientists talk about repeatable experiments as researchers are expected to provide enough details that others can try to replicate their findings by repeating their experiment. True or False | True
-An objective, logical and systematic method of analysis of phenomena devised to permit the accumulation of reliable knowledge. | Scientific Method
-Means both qualitative and quantitative methods. | Analysis
-It is used to solve problems in research. | Research Methods
+It is used to solve problems. | Research Methods
 Why use research methods to solve problems? To rely on authority (parents, superior, police, etc.) | True
-Why use research methods to solve problems? Personal experience (what happened) | True
-Why use research methods to solve problems? Common sense (apply simple logic) | True
-Why use research methods to solve problems? Revelation (rely on belief) | True
-Why use research methods to solve problems? Intuition (instincts or feelings) | True
+Why use research methods to solve problems? Personal experience (what happened) True or False? | True
+Why use research methods to solve problems? Common sense (apply simple logic) True or False? | True
+Why use research methods to solve problems? Revelation (rely on belief) True or False? | True
+Why use research methods to solve problems? Intuition (instincts or feelings) True or False? | True
+It means able to be tested or tried. | Testable
+Experimental scientists talk about repeatable experiments as researchers are expected to provide enough details that others can try to replicate their findings by repeating their experiment. True or False? | True
 What is already known (Elements of Research Plan) | Literature Review
+Overview of methodological decisions taken (Elements of Research Plan) | Research Design
+Selection process and from what population (Elements of Research Plan) | Sample and Population
+How done (Elements of Research Plan) | Data Collection
+How to process using quantitative methods (Elements of Research Plan) | Data Analysis
+How to display data and results of analysis. (Elements of Research Plan) | Presentation of Results
+How to make sense of the findings (Elements of Research Plan) | Interpretation of Results
+Timetable and allocation of tasks for study (Elements of Research Plan) | Work Schedule
+How to publish (Elements of Research Plan) | Dissemination of Results
+For Draft Instruments, it is needed for ethical approval (Elements of Research Plan) | Cover/Consent Letters
+For Draft Instruments, it is references to prior knowledge (Elements of Research Plan) | Bibliography
+An objective, logical and systematic method of analysis of phenomena devised to permit the accumulation of reliable knowledge. | Scientific Method
+What were observed (often cannot measure directly, although brain measurements have the potential to change that in some cases) - which can be either subjective (e.g. attitudes, feelings) or objective (e.g. time, weight) measurements. | Phenomena
+To evaluate phenomena from a dispassionate, apolitical, theological, and nonideological viewpoint. | Objective
+The key is objectivity in evaluation, i.e. when testing the ideas and reporting the findings, not when choosing the research problem. True or False? | True
+Something that (it is assumed) does not vary over the study and hence cannot explain anything that does vary over the study. | Constant
+Following the (rational) rules of induction and deduction. | Logical Reasoning
+General to specific (generate ways to test theories in new situations, looking for a situation where the theory fails) | Deduction
+Specific to general (generate theories from observations, creating a new theory, replacing any failed theories) | Induction
+It means both qualitative and quantitative methods (i.e. with and without numerical information) of processing and summarizing information. | Analysis
+It is a simple statistics relate description of sample to description of population. | Descriptive
+A statement that can be empirically tested, i.e. translation of theory into a testable statement. | Hypothesis
+A positive statement about what the researcher expects to find. | Alternative Hypothesis
+A statement that a relationship expected in the research hypothesis does not exist. | Null Hypothesis
+It means that you know the truth for certain. | Proof
+It means that your tests did not disprove the truth. | Verified
+A variable is something that varies over time or over subjects (in other words, varies within the study), also used to mean the operational definition of a concept (how do we measure something). | Random Variable
+Random variables that  are the object of research, i.e. they are included  in the research hypothesis. | Explanatory Variable
+An explanatory variable that is a presumed cause of variation in another explanatory variable(s). | Independent Variable
+An explanatory variable  that is presumed to be affected by the  independent variable(s). | Dependent Variable
+Random variables that  are not objects of research. | Extraneous Variable
+Extraneous variables that are related to independent variables. | Confounding
+Extraneous variables that have not been controlled. | Uncontrolled
+Extraneous variables that are either manipulated or included in a statistical model) to exclude their effect on the relationship between independent and dependent variables (for confounding variables) or to reduce the variability of the dependent variable. | Controlled
+Extraneous variables  believed not to play any role in the research. | Assumed Irrelevant
